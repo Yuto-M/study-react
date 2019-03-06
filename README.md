@@ -4,7 +4,9 @@ react勉強用
 
 ## Goal
 - reactの基本概念・動作環境・文法等を把握する
-    - reactのtutorialをやる
+    - ~~reactのtutorialをやる~~
+    - 文章の説明の方も見ておく
+- reactの動作環境構築
 
 ##js memo
 ```
